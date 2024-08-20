@@ -1,8 +1,0 @@
-#app {
-  border-radius: var(--mdui-shape-corner-medium);
-}
-
-#searchbar {
-  border-radius: var(--mdui-shape-corner-full);
-  background-color: var(--mdui-color-surface-bright);
-}
